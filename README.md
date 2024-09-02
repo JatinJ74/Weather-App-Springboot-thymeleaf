@@ -1,4 +1,4 @@
-```markdown
+
 # Weather-App-Springboot-thymeleaf
 
 This project is a Spring Boot-based Weather Application that provides real-time weather information for a specified city. It uses Thymeleaf for rendering views and integrates HTML and CSS for the frontend design.
