@@ -11,8 +11,8 @@
 	<groupId>com.example</groupId>
 	<artifactId>weather-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>weather-app</name>
 	<packaging>jar</packaging>
+	<name>weather-app</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
